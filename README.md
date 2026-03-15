@@ -15,7 +15,6 @@
 ## 📫 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:isaacromaia@gmail.com)
-📚 Interessado em tecnologia e desenvolvimento
 
 <!--
 **sackmaia08/sackmaia08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
