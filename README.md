@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Sack
+# 👋 Olá, me chamo Isaac
 
 💻 Estudante de programação  
 🚀 Aprendendo Python  
