@@ -1,7 +1,20 @@
 # 👋 Olá, eu sou Sack
 
 💻 Estudante de programação  
-🚀 Aprendendo Python, HTML e CSS  
+🚀 Aprendendo Python  
+📚 Interessado em tecnologia e desenvolvimento
+
+---
+
+## 🐍 Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+
+---
+
+## 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:isaacromaia@gmail.com)
 📚 Interessado em tecnologia e desenvolvimento
 
 <!--
