@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 Olá, eu sou Sack
+
+💻 Estudante de programação  
+🚀 Aprendendo Python, HTML e CSS  
+📚 Interessado em tecnologia e desenvolvimento
 
 <!--
 **sackmaia08/sackmaia08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
